@@ -1,9 +1,14 @@
 bs-dropzone.js
 ==============
 
-Es una extensión para `jQuery` y `Bootstrap` que permite transformar visualmente un elemento de entrada para archivos `<input type="file">` en un elemento que permite los gestos de arrastrar y soltar dentro de una zona, es totalmente personalizable y permite hacer una llamada de función cuando el evento change es ejecutado.
+Proyecto mantenido por `Wilfredo Nina Choquetarqui`.
 
 Documentación y ejemplos [aquí](https://wilnicho.github.io/bs-dropzone.js).
+
+¿Qué es bs-dropzone.js?
+-----------------------
+
+Es una extensión para `jQuery` y `Bootstrap` que permite transformar visualmente un elemento de entrada para archivos `<input type="file">` en un elemento que permite los gestos de arrastrar y soltar dentro de una zona, es totalmente personalizable y permite hacer una llamada de función cuando el evento change es ejecutado.
 
 ¿Qué necesito?
 --------------
@@ -96,5 +101,5 @@ $('#elemento').bs_dropzone({
 Como habrá visto la librería es muy fácil de implementar y personalizar ya que permite incluir clases propias, además con el evento `change` podemos extender aún más las funcionalidades, pero eso ya depende de las necesidades específicas de su aplicación.
 
 Licencia
--------------------------
+--------
 MIT
