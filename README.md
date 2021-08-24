@@ -102,4 +102,4 @@ Como habrá visto la librería es muy fácil de implementar y personalizar ya qu
 
 Licencia
 --------
-MIT
+Copyright © 2020 Wilfredo Nina Choquetarqui; Publicado bajo la licencia MIT.
